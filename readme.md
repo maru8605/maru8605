@@ -13,7 +13,7 @@
 
 👩🏻 Entre mis hobbies se encuentran: Leer, Viajar, y cocinar.
 
-📫 Para contactarme escribime a: maria-cristina-moreno@outlook.com  
+📫 Para contactarme escribime a: mariamorenodev@gmail.com  
 
 ⚡ Mi perfil de LinkedIn:  https://www.linkedin.com/in/maria-moreno86/
 
