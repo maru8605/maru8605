@@ -19,8 +19,7 @@
 
 <br>
 
-![Maru's GitHub stats](https://github-readme-stats.vercel.app/api?username=maru8605&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maru8605&layout=compact&theme=buefy)](https://github.com/maru8605/github-readme-stats)
-
+![Maru's GitHub stats](https://github-readme-stats.vercel.app/api?username=maru8605&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maru8605&layout=compact&theme=buefy)](https://github.com/maru8605/github-readme-stats) 
 
 <h3>Languages and Tools:</h3>
 <br>
