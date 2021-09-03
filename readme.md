@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/55419544/126087555-b31b4f41-87f8-4389-8d2f-7ef1136a949d.png)
 <h1 align="center">Hola! 👋 soy Maru</h1>
 <h3 align="center">FrontEnd Developer Jr.</h3>
-<br> </br>
+<br> </br>  
 
 🔭 Me encuentro trabajando en projectos Freelance, utilizando JavaScrip y React.
 
